@@ -17,7 +17,7 @@ import PackageDescription
 let package = Package(
     ...
     dependencies: [
-        .package(url: "https://github.com/wangzhizhou/PaperMC.git", branch: "main"),
+        .package(url: "https://github.com/OrzMC/PaperMC.git", branch: "main"),
     ],
     targets: [
         .target(
@@ -43,6 +43,6 @@ let package = Package(
 [HangarAPI]: <https://hangar.papermc.io/api-docs>
 [Hangar OpenAPI Spec]: <https://hangar.papermc.io/v3/api-docs/public>
 
-[spi-swift-badge]: <https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fwangzhizhou%2FPaperMC%2Fbadge%3Ftype%3Dswift-versions>
-[spi-platform-badge]: <https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fwangzhizhou%2FPaperMC%2Fbadge%3Ftype%3Dplatforms>
-[repo_url]: <https://swiftpackageindex.com/wangzhizhou/PaperMC>
+[spi-swift-badge]: <https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FOrzMC%2FPaperMC%2Fbadge%3Ftype%3Dswift-versions>
+[spi-platform-badge]: <https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FOrzMC%2FPaperMC%2Fbadge%3Ftype%3Dplatforms>
+[repo_url]: <https://swiftpackageindex.com/OrzMC/PaperMC>
